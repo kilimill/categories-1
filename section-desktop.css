@@ -4,6 +4,7 @@
   position: relative; 
   color: rgb(242, 228, 215);
   color:  #f2e4d7;
+  overflow: hidden;
 }
 
 .categories-1__title {
@@ -20,13 +21,13 @@
   display: flex;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
-  justify-content: center;
   margin-left: -19px;
   margin-right: -19px;
   margin-top: 83px;
   color: #fff; 
   -webkit-box-pack: center;
   -ms-flex-pack: center;
+  justify-content: center;
 }
 
 .categories-1__item {

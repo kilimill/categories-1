@@ -2,6 +2,7 @@
   padding: 67px 0 0px; 
   text-transform: uppercase;
   background-color: #fff;
+  overflow: hidden;
 }
 
 .hide__on-mob{
